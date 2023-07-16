@@ -1,0 +1,10 @@
+using System;
+
+[Serializable]
+public sealed class #SCRIPTNAME#
+{
+    public #SCRIPTNAME# ()
+    {
+
+    }
+}
