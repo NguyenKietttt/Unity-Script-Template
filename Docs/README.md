@@ -9,6 +9,7 @@ A script template is a pre-defined file that contains the basic structure of a s
 ## :hammer_and_wrench: How to install?
 
 - [Download package](https://github.com/NguyenKietttt/Unity-Script-Template/releases)
+- Delete the old `ScripTemplates` folder if you have it.
 - Import the package into your project.
 - You will need to close and restart Unity for the changes to take effect.
 
