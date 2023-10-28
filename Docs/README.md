@@ -12,11 +12,11 @@ A script template is a pre-defined file that contains the basic structure of a s
 - Import the package into your project.
 - You will need to close and restart Unity for the changes to take effect.
 
-You can now see some new menus for script creation when you right-click in the `Project` view.
+You can now see the new script creation menu when you right-click in the `Project` view.
 
 ![Create asset menu example](Example.png)
 
 ## :warning: Notice
-The `ScripTemplates` folder will not work unless you put it inside the `Assets` folder. 
+The `ScripTemplates` folder will not work unless you put it inside the `Assets` folder.
 - Assets/ScripTemplates :white_check_mark:
 - Assets/SomeFolder/ScripTemplates :x:
